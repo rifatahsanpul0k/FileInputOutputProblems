@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed6aa668-c10e-4979-b5e7-2ef0e86d2032" name="Changes" comment="">
+    <list default="true" id="ed6aa668-c10e-4979-b5e7-2ef0e86d2032" name="Changes" comment="simple project on File I/O">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeRelated/CustomOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeRelated/CustomOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileWithBufferedReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileWithBufferedReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileWithScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileWithScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileWithBufferedReader.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,10 +65,26 @@
       <workItem from="1703537161750" duration="6456000" />
       <workItem from="1703564181487" duration="1459000" />
       <workItem from="1703855796006" duration="9242000" />
+      <workItem from="1703871457736" duration="139000" />
+      <workItem from="1703871611052" duration="387000" />
     </task>
+    <task id="LOCAL-00001" summary="simple project on File I/O">
+      <option name="closed" value="true" />
+      <created>1703871507465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703871507465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="simple project on File I/O" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple project on File I/O" />
   </component>
 </project>
